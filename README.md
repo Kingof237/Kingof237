@@ -129,7 +129,7 @@ It provides a unified analytics-ready warehouse that supports **reporting, forec
 - Unified data ingestion from Walmart, Spotify, and Kaggle  
 - Cleaned & standardized **dbt models** for analytics  
 - **Incremental dbt models** for scalable transformations  
-- **Data quality tests** (dbt tests + custom tests)  
+- **Data quality tests** (dbt tests)  
 - **Airflow DAGs** to automate ETL + dbt runs  
 - **Dockerized setup** for reproducibility  
 
